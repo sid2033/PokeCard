@@ -6,4 +6,5 @@ A React App that displays Pokemon Card Data
 - Custom CSS styling for better UI
 
 Access
-Live Site coming soon
+
+- Live Site coming soon
